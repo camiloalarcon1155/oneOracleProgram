@@ -38,3 +38,9 @@ console.log(numero)// me permite generar un numero del 1-10 sin decimales
 
 
 // En esta lección, vimos cómo usar la documentación para generar un número aleatorio a través de la documentación de Mozilla. Sin embargo, también existe W3Schools (W3S), que es un recurso en línea ampliamente conocido y utilizado para aprender diversas tecnologías de desarrollo web, incluido JavaScript (JS).El sitio web ofrece tutoriales interactivos, ejemplos de código, referencias de sintaxis y conceptos fundamentales relacionados con JavaScript y otros lenguajes web.
+
+
+
+//////////
+los eventos en html siempre se encuentran con on , de en , cuando
+////////
